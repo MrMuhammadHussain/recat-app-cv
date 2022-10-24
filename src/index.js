@@ -12,7 +12,7 @@ function Hi() {
                 <div className="col-lg-4 col-md-12 basic-profile">
                   <div className="row no-margin">
                     <div className="col-lg-12 col-md-3 col-sm-3 col-12 no-padding">
-                      <img src="https://mrmuhammadhussain.github.io/My_CV/assets/images/profile_image.jpg" />
+                      <img src="https://mrmuhammadhussain.github.io/My_CV/assets/images/profile_image.jpg" alt='OK'/>
                     </div>
                     <div className="col-lg-12 col-md-9 col-sm-9 ccol-12 baci-cc no-padding">
                       <div className="basic-detail no-padding">
